@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Justo 👋
+
+I'm working to become a full stack web developer.
 
 <!--
 **asdt560/asdt560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
