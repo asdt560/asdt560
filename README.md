@@ -1,4 +1,9 @@
-### Hello, I'm Justo 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103001263/193941344-17335643-da04-4edc-bea1-2e175b4e6192.png" alt="Justo Rago" width="1100">
+</p>
+
+# Hello, I'm Justo 👋
+
 
 I'm working to become a full stack web developer.
 
