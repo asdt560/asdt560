@@ -4,8 +4,11 @@
 
 # Hello, I'm Justo 👋
 
-
-I'm working to become a full stack web developer.
+- 🔭 I’m currently looking for work.
+- 🌱 I’m currently learning Svelte.js.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/justo-rago)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: No matter which way you go, travel long enough and you will arrive where you left.
 
 ![Justo's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdt560&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdt560&layout=compact)](https://github.com/asdt560/github-readme-stats)
@@ -14,12 +17,5 @@ I'm working to become a full stack web developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
