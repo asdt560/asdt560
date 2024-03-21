@@ -5,7 +5,7 @@
 # Hello, I'm Justo 👋
 
 - 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Node.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/justo-rago)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No matter which way you go, travel long enough and you will arrive where you left.
